@@ -1,0 +1,1 @@
+Encontra palavras em PT-BR dentro do arquivo quer estiver aberto.
